@@ -1,1 +1,1 @@
-hi
+This is cli to git
